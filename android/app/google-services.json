@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572303259662",
+    "project_id": "greenmarket-38a5c",
+    "storage_bucket": "greenmarket-38a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572303259662:android:09efbfa6024bfce569e45f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_greenmarket2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtWW36WNGVXMltLwzGzn2PN1pst9LHP20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
